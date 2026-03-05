@@ -22,7 +22,7 @@ Example features used in the model:
 - `age`
 - `latitude`
 - `longitude`
-- `country` :contentReference[oaicite:1]{index=1}
+- `country` 
 
 ## Methods
 The workflow includes:
